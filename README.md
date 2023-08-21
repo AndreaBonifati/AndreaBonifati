@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AndreaBonifati
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: andreabonifati@protonmail.com
 
 <!---
