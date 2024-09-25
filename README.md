@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreaBonifati
 - 👀 I’m interested in Computer Science
-- 📫 How to reach me: andreabonifati@protonmail.com
+- 📫 How to reach me: andreabonifati088@gmail.com
 
 <!---
 AndreaBonifati/AndreaBonifati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
